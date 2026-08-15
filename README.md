@@ -2,7 +2,7 @@ Hello!
 
 I'm a CompE student @ Georgia Institute of Technology.
 
-Previously, I worked @ GTRI
+Previously worked @ GTRI
 
 Beyond that, I love playing chess and traveling.
 
