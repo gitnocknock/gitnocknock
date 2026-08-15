@@ -6,4 +6,5 @@ On the side, I love playing chess and traveling.
 
 [LinkedIn](www.linkedin.com/in/nikhil-chakre-a58389197) [Portfolio](https://nikhilchakre.com)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitnocknock&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitnocknock&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=gitnocknock&theme=radical
+)
