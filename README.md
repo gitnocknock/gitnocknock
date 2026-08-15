@@ -4,6 +4,8 @@ Currently interning @ GTRI
 
 On the side, I love playing chess and traveling.
 
+Please check out my latest build: [Louom](https://louom.com)
+
 [LinkedIn](www.linkedin.com/in/nikhil-chakre-a58389197) [Portfolio](https://nikhilchakre.com)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=gitnocknock)](https://git.io/streak-stats)
+
