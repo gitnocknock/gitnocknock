@@ -1,6 +1,6 @@
 Hello!
 
-I'm a CompE student @ Georgia Institute of Technology.
+I'm a CompE student @ Georgia Institute of Technology
 
 Previously worked @ GTRI
 
